@@ -6,9 +6,9 @@ This project focuses on creating clean and aesthetic user profile/job cards with
 
 ## 🚀 Live Demo
 ```txt
-
-```
 https://useridcard.vercel.app/
+```
+
 ---
 
 # 📌 About The Project
